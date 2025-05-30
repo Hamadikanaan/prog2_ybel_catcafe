@@ -60,7 +60,7 @@ public class CatCafe {
      */
     public Optional<FelineOverLord> getCatByWeight(int minWeight, int maxWeight) {
 
-        
+
         // GEÄNDERT: return null → return Optional.empty()
         if (minWeight < 0) return Optional.empty();
         if (maxWeight < minWeight) return Optional.empty();
