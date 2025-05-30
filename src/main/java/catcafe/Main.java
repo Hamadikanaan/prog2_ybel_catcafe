@@ -3,7 +3,7 @@ package catcafe;
 import tree.InOrderVisitor;
 import tree.PostOrderVisitor;
 
-/** Starter for the cat-café task1. */
+/** Starter for the cat-café task111555555. */
 public class Main {
     /**
      * And go.
